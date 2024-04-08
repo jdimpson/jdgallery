@@ -50,11 +50,11 @@ command-line syntax or having the exact same run time behaviors, but that might 
 
 Improvements I intend to make are:
 
-  o Support JPG, PNG, GIF, and SVG file types
-     o To make this harder, also try to only use Python libraries that can be installed via `pip`, no shelling out directly to ImageMagick or Gimp
-  o Support pulling metadata out of the files to make availabe in the gallery view
-  o Support a more modern dynamic mobile friendly UI that allows flipping through images
-     o Note that I hate writing javascript, I hate the DOM model for programming, and I hate having to learn and update third-party javascript libraries. So no promises on this one.
+  - Support JPG, PNG, GIF, and SVG file types
+     - To make this harder, also try to only use Python libraries that can be installed via `pip`, no shelling out directly to ImageMagick or Gimp
+  - Support pulling metadata out of the files to make availabe in the gallery view
+  - Support a more modern dynamic mobile friendly UI that allows flipping through images
+     - Note that I hate writing javascript, I hate the DOM model for programming, and I hate having to learn and update third-party javascript libraries. So no promises on this one.
 
 Well, I actually used up all my time just writing this up--I didn't even get any skeleton code brought together. 
 I'm not sure when I'll get more time and motiviation to get back to this.  Hopefully soon.
